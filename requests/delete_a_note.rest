@@ -1,1 +1,3 @@
-DELETE http://localhost:3001/api/notes/6859d8be7decd5ece43cfec1 HTTP/1.1
+DELETE http://localhost:3001/api/notes/68b47e00b92a7c216ae7e072 HTTP/1.1
+
+// verificar la id antes de enviar la solicitud
